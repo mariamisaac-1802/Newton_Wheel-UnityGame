@@ -6,7 +6,7 @@ Newton Wheel is an innovative educational game that combines the thrill of racin
 
 ## Gameplay Mechanics
 
-- **Objective:** Win the race against the AI competitor.
+- **Objective:** Win the race against the competitor.
 - **Track:** A four-sided square track.
 - **Progression:** On each side of the track, the player must solve a physics problem. The correct answer provides the necessary values (like acceleration, speed, or force) to overcome the environmental challenge and move forward.
 - **Educational Focus:** Kinematics, relative speed, friction, and environmental forces.
